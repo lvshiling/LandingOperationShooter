@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" package="com.unity3d.player" xmlns:tools="http://schemas.android.com/tools" android:installLocation="preferExternal" android:versionCode="1" android:versionName="1.0">
+	<supports-screens android:smallScreens="true" android:normalScreens="true" android:largeScreens="true" android:xlargeScreens="true" android:anyDensity="true" />
+
+  <!-- Add this permissions to defaultPermissions array in Resources/SDKAdapters.txt -->
+  <uses-permission android:name="android.permission.INTERNET" />
+  <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE"/>
+  <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+  <!-- Flurry: Optional permission - Location based ad targeting -->
+  <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+
+  <application android:name="android.support.multidex.MultiDexApplication" tools:replace="android:label" android:theme="@style/UnityThemeSelector" android:icon="@drawable/app_icon" android:label="@string/app_name">
+     
+    <activity android:name="com.unity3d.player.UnityPlayerActivity"
+              android:launchMode="singleTask"
+              android:label="@string/app_name"
+              android:configChanges="fontScale|keyboard|keyboardHidden|locale|mnc|mcc|navigation|orientation|screenLayout|screenSize|smallestScreenSize|uiMode|touchscreen">
+      <intent-filter>
+        <action android:name="android.intent.action.MAIN" />
+        <category android:name="android.intent.category.LAUNCHER" />
+        <category android:name="android.intent.category.LEANBACK_LAUNCHER" />
+      </intent-filter>
+      <meta-data android:name="android.app.lib_name" android:value="unity" />
+      <meta-data android:name="unityplayer.ForwardNativeEventsToDalvik" android:value="true" />
+      <meta-data android:name="unityplayer.UnityActivity" android:value="true" />
+    </activity>
+
+    <meta-data tools:replace="android:value" android:name="unityplayer.SkipPermissionsDialog" android:value="true" />
+    
+	</application>
+
+</manifest>

@@ -1,0 +1,536 @@
+fileFormatVersion: 2
+guid: ac5bc7f3d937ebe4fb1c339aa8488136
+timeCreated: 1519278124
+licenseType: Free
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: Bone
+    100002: Bone_L
+    100004: Bone_L.001
+    100006: Bone_L.002
+    100008: Bone_L.003
+    100010: Bone_L.004
+    100012: Bone_L.005
+    100014: Bone_L.006
+    100016: Bone_L.007
+    100018: Bone_L.008
+    100020: Bone_L.010
+    100022: Bone_L.011
+    100024: Bone_L.012
+    100026: Bone_L.013
+    100028: Bone_L.014
+    100030: Bone_L.015
+    100032: Bone_L.016
+    100034: Bone_L.017
+    100036: Bone_L.018
+    100038: Bone_L.019
+    100040: Bone_L.020
+    100042: Bone_L.021
+    100044: Bone_R
+    100046: Bone_R.001
+    100048: Bone_R.002
+    100050: Bone_R.003
+    100052: Bone_R.004
+    100054: Bone_R.005
+    100056: Bone_R.006
+    100058: Bone_R.007
+    100060: Bone_R.008
+    100062: Bone_R.010
+    100064: Bone_R.011
+    100066: Bone_R.012
+    100068: Bone_R.013
+    100070: Bone_R.014
+    100072: Bone_R.015
+    100074: Bone_R.016
+    100076: Bone_R.017
+    100078: Bone_R.018
+    100080: Bone_R.019
+    100082: Bone_R.020
+    100084: Bone_R.021
+    100086: gun1
+    100088: gun1.001
+    100090: h1
+    100092: h2
+    100094: hands_arma
+    100096: Hands_mesh
+    100098: //RootNode
+    100100: pistolMagazine
+    100102: pistolTop
+    100104: Revolver
+    100106: Revolver_Baraban
+    100108: revolver_G1
+    100110: revolver_G2
+    100112: revolver_G3
+    100114: revolver_G4
+    100116: revolver_G5
+    100118: revolver_G6
+    100120: revolver_top
+    100122: revoverBaraban
+    100124: revoverBarabanG1
+    100126: revoverBarabanG2
+    100128: revoverBarabanG3
+    100130: revoverBarabanG4
+    100132: revoverBarabanG5
+    100134: revoverBarabanG6
+    100136: revoverKurok
+    100138: rp
+    100140: shotgun
+    400000: Bone
+    400002: Bone_L
+    400004: Bone_L.001
+    400006: Bone_L.002
+    400008: Bone_L.003
+    400010: Bone_L.004
+    400012: Bone_L.005
+    400014: Bone_L.006
+    400016: Bone_L.007
+    400018: Bone_L.008
+    400020: Bone_L.010
+    400022: Bone_L.011
+    400024: Bone_L.012
+    400026: Bone_L.013
+    400028: Bone_L.014
+    400030: Bone_L.015
+    400032: Bone_L.016
+    400034: Bone_L.017
+    400036: Bone_L.018
+    400038: Bone_L.019
+    400040: Bone_L.020
+    400042: Bone_L.021
+    400044: Bone_R
+    400046: Bone_R.001
+    400048: Bone_R.002
+    400050: Bone_R.003
+    400052: Bone_R.004
+    400054: Bone_R.005
+    400056: Bone_R.006
+    400058: Bone_R.007
+    400060: Bone_R.008
+    400062: Bone_R.010
+    400064: Bone_R.011
+    400066: Bone_R.012
+    400068: Bone_R.013
+    400070: Bone_R.014
+    400072: Bone_R.015
+    400074: Bone_R.016
+    400076: Bone_R.017
+    400078: Bone_R.018
+    400080: Bone_R.019
+    400082: Bone_R.020
+    400084: Bone_R.021
+    400086: gun1
+    400088: gun1.001
+    400090: h1
+    400092: h2
+    400094: hands_arma
+    400096: Hands_mesh
+    400098: //RootNode
+    400100: pistolMagazine
+    400102: pistolTop
+    400104: Revolver
+    400106: Revolver_Baraban
+    400108: revolver_G1
+    400110: revolver_G2
+    400112: revolver_G3
+    400114: revolver_G4
+    400116: revolver_G5
+    400118: revolver_G6
+    400120: revolver_top
+    400122: revoverBaraban
+    400124: revoverBarabanG1
+    400126: revoverBarabanG2
+    400128: revoverBarabanG3
+    400130: revoverBarabanG4
+    400132: revoverBarabanG5
+    400134: revoverBarabanG6
+    400136: revoverKurok
+    400138: rp
+    400140: shotgun
+    2300000: Revolver
+    2300002: Revolver_Baraban
+    2300004: revolver_G1
+    2300006: revolver_G2
+    2300008: revolver_G3
+    2300010: revolver_G4
+    2300012: revolver_G5
+    2300014: revolver_G6
+    2300016: revolver_top
+    3300000: Revolver
+    3300002: Revolver_Baraban
+    3300004: revolver_G1
+    3300006: revolver_G2
+    3300008: revolver_G3
+    3300010: revolver_G4
+    3300012: revolver_G5
+    3300014: revolver_G6
+    3300016: revolver_top
+    4300000: Revolver
+    4300002: revolver_top
+    4300004: Revolver_Baraban
+    4300006: revolver_G1
+    4300008: revolver_G2
+    4300010: revolver_G4
+    4300012: revolver_G3
+    4300014: revolver_G5
+    4300016: revolver_G6
+    4300018: Hands_mesh
+    7400000: hands_revolver_hide
+    7400002: hands_revolver_Idle
+    7400004: hands_revolver_jump
+    7400006: hands_revolver_reloading
+    7400008: hands_revolver_run
+    7400010: hands_revolver_shoot1
+    7400012: hands_revolver_shoot2
+    7400014: hands_revolver_trigger
+    7400016: hands_revolver_unhide
+    9500000: //RootNode
+    13700000: Hands_mesh
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: hands_revolver_hide
+      takeName: hands_arma|hands_revolver_hide
+      firstFrame: 0
+      lastFrame: 21
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: hands_revolver_Idle
+      takeName: hands_arma|hands_revolver_Idle
+      firstFrame: 0
+      lastFrame: 70
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: hands_revolver_jump
+      takeName: hands_arma|hands_revolver_jump
+      firstFrame: 0
+      lastFrame: 30
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: hands_revolver_reloading
+      takeName: hands_arma|hands_revolver_reloading
+      firstFrame: 0
+      lastFrame: 165
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: hands_revolver_run
+      takeName: hands_arma|hands_revolver_run
+      firstFrame: 10.1
+      lastFrame: 32.4
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: hands_revolver_shoot1
+      takeName: hands_arma|hands_revolver_shoot1
+      firstFrame: 0
+      lastFrame: 20
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events:
+      - time: 0.14634144
+        functionName: OnShootAnimation
+        data: 
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: hands_revolver_shoot2
+      takeName: hands_arma|hands_revolver_shoot2
+      firstFrame: 0
+      lastFrame: 41
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events:
+      - time: 0.09268293
+        functionName: OnShootAnimation
+        data: 
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: hands_revolver_trigger
+      takeName: hands_arma|hands_revolver_trigger
+      firstFrame: 0
+      lastFrame: 20
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events:
+      - time: 0.31143552
+        functionName: PlayTriggerMusic
+        data: 
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: hands_revolver_unhide
+      takeName: hands_arma|hands_revolver_unhide
+      firstFrame: 0
+      lastFrame: 29
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 2
+    addColliders: 0
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

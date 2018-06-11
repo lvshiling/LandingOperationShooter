@@ -1,0 +1,35 @@
+version;4.0.3
+Ads Version;1.0.0
+Epic ID;G3D-46171
+Epic Name;Landing Operation Shooter
+GP Title;Airborne Army - Air Drop Mission Shooter
+GP Bundle;com.creativesimulatorsstudio.landingoperationshooter
+GP Account;Creative Simulators Studio
+GP Flurry;KPN6MZXXBXQB62V4K6MF
+GP OneAudience;31262C34-ADB4-46C7-BC0B-F3743309ED2B
+GP Fyber App Id;114107
+GP Fyber Sec Token;965a8733dc0c541f954bfa67ca5614fd
+Amazon Title;Airborne Crossfire Commando - Shootout Surviving
+Amazon Bundle;com.amazinggames.landingoperationshooter
+Amazon Account;Amazing Games
+AS Title Free;Air Drop Army - Airborne Shoot
+AS Bundle Free;com.alexandershulgin.landingoperationshooterfree
+App ID Free;1329895281
+AS Flurry;T6R766PCTF8G3VHF73Q3
+AS Account Free;Alexander Shulgin
+AS OneAudience;622EAEB7-F64B-4DFD-9D8C-0113016CC5BD
+AS Fyber App Id;114106
+AS Fyber Sec Token;c4b8deefe0dac40956928d7fc6b10646
+GP Version / Code;1.0.0 / 1
+AS Version;1.0.0 / 1.0.0
+Balance URL Key;1D5xFShsbzIHIaKSCJbyPZwU00KhD5pkbLsw0tzQ1FcA
+GitLab Url;https://gitlab.gbn.company/unityprojects/LandingOperationShooter.git
+GameStorage Url;
+Additive Scenes;
+Locale Version;false
+Mobile Input;false
+GP Appodeal Key;da25e5d4636d47d8543db8e81ad8b68e696fd4b8b87545c0
+AS Appodeal Key;d96508b7856bdb3f960f43338421c1f39407c12e191d55b3
+GP MobKnow;b0726c1be5dd6ec92d13d3b0bd439d4c
+GP UnityAds Key;1663871
+AS UnityAds Key;1681702

@@ -1,0 +1,5 @@
+﻿Font Colors: 
+Regular Font #ffffffff - �������� �����
+Title Font #000000ff - ����� ��� ����������
+Regular Button Font #010a15ff - ����� ��� ������
+URL/ADS Button Font #011311ff - ����� ������������� ������ � ����� ������ ������ ������� �� ������� ������ 

@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c253b658c1b16024dbe6d4fc45488565, type: 3}
+  m_Name: Tichon
+  m_EditorClassIdentifier: 
+  itemName: Tichon
+  isSelected: 1
+  isBuy: 1
+  ID: 1
+  cost: 0
+  sprite: {fileID: 21300000, guid: f7c203d2ce99e814db189736b3a17bdd, type: 3}
+  damage: 5
+  accuracy: 1
+  ammoCount: 6
+  reloadTime: 1
+  skills:
+  - {fileID: 11400000, guid: 5072aca53d94c7642ac5608969a5b0ff, type: 2}
+  - {fileID: 11400000, guid: 19a0ee91bbbcd244090e0c94c8d5b0c9, type: 2}
+  attackDelay: 0.5
+  isRateOfFire: 1
+  rateOfFire: 2
+  attackDistance: 10
+  animator: {fileID: 95079074006579088, guid: 811c3fd5ea79a0b4a98f541ed71159a9, type: 2}
+  shotEffect: {fileID: 1982423350339430, guid: 3f538ce0fb0ecf9468bfcd6d85886f87, type: 2}

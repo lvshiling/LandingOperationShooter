@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c253b658c1b16024dbe6d4fc45488565, type: 3}
+  m_Name: Chwalibog
+  m_EditorClassIdentifier: 
+  itemName: Chwalibog
+  isSelected: 0
+  isBuy: 0
+  ID: 7
+  cost: 1100
+  sprite: {fileID: 21300000, guid: 69e78d467dc8ddd4f8705fea425c25b2, type: 3}
+  damage: 3
+  accuracy: 1
+  ammoCount: 12
+  reloadTime: 1
+  skills:
+  - {fileID: 11400000, guid: 215f5e3e40145964ab66a39c5077c939, type: 2}
+  - {fileID: 11400000, guid: 07030c5544ef62544af7039dab116807, type: 2}
+  attackDelay: 2
+  isRateOfFire: 1
+  rateOfFire: 12
+  attackDistance: 10
+  animator: {fileID: 95053444714883830, guid: c3224e1bdd7af804799f7a6600bbb5ac, type: 2}
+  shotEffect: {fileID: 1982423350339430, guid: 3f538ce0fb0ecf9468bfcd6d85886f87, type: 2}

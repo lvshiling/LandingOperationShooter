@@ -1,0 +1,224 @@
+# D+;DIRECTORY_NAME == DIRECTORY_NAME Should exist
+# D-;DIRECTORY_NAME == DIRECTORY_NAME Should not exist
+# F+;FILE_NAME == FILE_NAME Should exist
+# F-;FILE_NAME == FILE_NAME Should not exist
+# F?;FILE_NAME;TEXT == FILE_NAME Should exist and contains TEXT
+
+# OLD HEYZAP AND OTHER PACKAGES
+D-;Assets/Editor/Heyzap
+D-;Assets/GBNHZ/Adman
+F-;Assets/GBNHZ/GBNHZCrosspromo/GBNHZCrosspromoShow.cs
+F-;Assets/GBNHZ/GBNHZCrosspromo/GBNHZCrosspromoShow.prefab
+F-;Assets/GBNHZ/GBNHZshowReward.cs
+F-;Assets/GBNHZ/GBNHZshowreward.prefab
+D-;Assets/Plugins/Android/Heyzap
+D-;Assets/Plugins/Android/UnityAds
+D-;Assets/Plugins/Heyzap
+D-;Assets/Plugins/Vungle
+D-;Assets/Plugins/AppLovin
+D-;Assets/Plugins/AppTrackerAndroid
+F-;Assets/Plugins/AdColony.cs
+F-;Assets/Plugins/VungleSDKProxy.dll
+D-;Assets/Plugins/iOS/Heyzap
+F-;Assets/Plugins/Android/flurryAnalytics_6.3.1.jar
+D-;Assets/Standard Assets/Editor/UnityAds
+D-;Assets/Standard Assets/UnityAds
+D-;Assets/Chartboost
+D-;Assets/Editor/Vungle
+F-;Assets/Editor/PostBuildProcessor.cs
+F-;Assets/Editor/UnityAdsBuildProcessor.cs
+F-;Assets/Editor/AutoBuilder/IosFullBuilder.cs
+F-;Assets/Scripts/GBNScripts/StartCalldorado.cs
+F-;Assets/Plugins/Android/OneAudience-sdk-release-2.8.jar
+D-;Assets/PlayServicesResolver
+
+D-;Assets/Plugins/Android/adcolony
+D-;Assets/Plugins/Android/applovin
+D-;Assets/Plugins/Android/appodeal
+D-;Assets/Plugins/Android/chartboost
+D-;Assets/Plugins/Android/facebook
+D-;Assets/Plugins/Android/inmobi
+D-;Assets/Plugins/Android/ironsource
+D-;Assets/Plugins/Android/mailru
+D-;Assets/Plugins/Android/mmedia
+D-;Assets/Plugins/Android/ogury
+D-;Assets/Plugins/Android/startapp
+D-;Assets/Plugins/Android/tapjoy
+D-;Assets/Plugins/Android/unity_ads
+D-;Assets/Plugins/Android/vungle
+D-;Assets/Plugins/Android/yandex-metrica
+F-;Assets/Appodeal/AppodealController.cs
+
+F-;Assets/Plugins/Android/OneAudience-sdk-release-5.5.2.8.jar
+
+F-;Assets/Plugins/Android/FlurryAnalytics.jar
+F-;Assets/Plugins/iOS/libFlurry.a
+
+F-;Assets/Plugins/Android/cuebiq_3.1.3.jar;Android ADS_VERSION
+F-;Assets/Plugins/Android/CuebiqSDKAndroidPlugin.jar;Android ADS_VERSION
+
+F-;Assets/Plugins/Android/OneAudience-sdk-release-6.0.0.2.jar;Android ADS_VERSION
+F-;Assets/Plugins/Android/OneAudiencePlugin.jar;Android ADS_VERSION
+
+F-;Assets/Plugins/Android/support-annotations-25.3.1.jar;Android ADS_VERSION
+F-;Assets/Plugins/Android/support-v4-24.0.0.aar;Android ADS_VERSION
+F-;Assets/Plugins/Android/appcompat-v7-25.3.1.aar;Android ADS_VERSION
+F-;Assets/Plugins/Android/gson-2.8.1.jar;Android ADS_VERSION
+F-;Assets/Plugins/Android/okhttp-3.8.1.jar;Android ADS_VERSION
+F-;Assets/Plugins/Android/okio-1.13.0.jar;Android ADS_VERSION
+
+#F+;Assets/StreamingAssets/tamoco.properties;Android ADS_VERSION
+#F+;Assets/Plugins/Android/proximity_sdk-release-1.5.1.2.aar;Android ADS_VERSION
+
+F-;Assets/Plugins/iOS/AJKit.h;AppStoreFree
+F-;Assets/Plugins/iOS/libAJKit.a;AppStoreFree
+F-;Assets/Plugins/iOS/OneAudience.h;AppStoreFree
+F-;Assets/Plugins/iOS/OneAudience.mm;AppStoreFree
+F-;Assets/Plugins/iOS/OneAudience/AJKit.h;AppStoreFree
+F-;Assets/Plugins/iOS/OneAudience/libAJKit.a;AppStoreFree
+F-;Assets/Plugins/iOS/OneAudience/OneAudience.h;AppStoreFree
+F-;Assets/Plugins/iOS/OneAudience/OneAudience.mm;AppStoreFree
+
+# NEW GBNHZ
+#F+;Assets/GBNHZ/btnGBNHZReward.prefab
+#F+;Assets/GBNHZ/btnGBNHZShow.prefab
+F?;Assets/GBNHZ/GBNHZbtnReward.cs;GBNHZshow.Instance.ShowReward
+D+;Assets/GBNHZ/GBNHZCrosspromo
+F?;Assets/GBNHZ/GBNHZCrosspromo/GBNHZCrosspromo.cs;GBNHZshow.Instance.Show
+F?;Assets/GBNHZ/GBNHZinit.cs;
+#F+;Assets/GBNHZ/GBNHZinit.prefab
+F?;Assets/GBNHZ/GBNHZshow.cs;
+#F+;Assets/GBNHZ/GBNHZshow.prefab
+#F+;Assets/GBNHZ/GBNHZYoutube.prefab
+F+;Assets/Plugins/Android/AndroidManifestAmazon.xml;Android
+F?;Assets/Plugins/Android/AndroidManifest.xml;android.permission.INTERNET;Android
+F?;Assets/Plugins/Android/AndroidManifest.xml;android.permission.WRITE_EXTERNAL_STORAGE;Android
+F?;Assets/Plugins/Android/AndroidManifest.xml;android.permission.ACCESS_NETWORK_STATE;Android
+F+;Assets/Plugins/Android/mainTemplate.gradle;Android ADS_VERSION
+F-;Assets/Prefabs/GBNPrefabs/GURLs/RateAs.cs
+F-;Assets/Scripts/CheatGUI.cs
+
+# TODO remove in project and add on build D-;Assets/Fyber/iOS
+# TODO remove in project and add on build D-;Assets/Plugins/iOS
+
+# JSON
+D+;Assets/GBNHZ/JSONObject
+
+#UnityAds
+F+;Assets/UnityAds/UnityAdsController.cs;ADS_VERSION
+F+;Assets/UnityAds/UnityEngine.Advertisements.Android.dll;ADS_VERSION
+F+;Assets/UnityAds/UnityEngine.Advertisements.Editor.dll;ADS_VERSION
+F+;Assets/UnityAds/UnityEngine.Advertisements.iOS.dll;ADS_VERSION
+F+;Assets/UnityAds/UnityEngine.Advertisements.Unsupported.dll;ADS_VERSION
+F+;Assets/Plugins/Android/UnityAds.aar;Android ADS_VERSION
+F+;Assets/Plugins/iOS/UnityAdsUnityWrapper.mm;AppStoreFree ADS_VERSION
+D+;Assets/Plugins/iOS/UnityAds.framework;AppStoreFree ADS_VERSION
+
+# FLURRY
+D+;Assets/Analytics
+F+;Assets/Analytics/Analytics.cs
+F+;Assets/Analytics/AnalyticsConsole.cs
+F+;Assets/Analytics/AnalyticsEvents.cs
+F+;Assets/Analytics/AnalyticsSystem.cs
+F+;Assets/Analytics/Analytics.prefab
+F+;Assets/Analytics/CanvasAnalyticsConsole.prefab
+F+;Assets/Analytics/IAnalytics.cs
+F+;Assets/Analytics/IExtEvent.cs
+F+;Assets/Analytics/MonoSingleton.cs
+F+;Assets/Plugins/Android/flurryAnalytics_10.1.0.jar;Android ADS_VERSION
+F+;Assets/Plugins/Android/CountryTool.jar;Android ADS_VERSION
+F+;Assets/Plugins/Android/PM-1.1.1.jar;Android ADS_VERSION
+F+;Assets/Plugins/iOS/libFlurry_8.6.0.a;AppStoreFree
+F+;Assets/Plugins/iOS/libFlurryAnalytics.a;AppStoreFree
+F+;Assets/Plugins/iOS/FlurryIOS/Flurry.h;AppStoreFree
+F+;Assets/Plugins/iOS/FlurryIOS/FlurryConsent.h;AppStoreFree
+F+;Assets/Plugins/iOS/FlurryIOS/FlurrySessionBuilder.h;AppStoreFree
+F+;Assets/Plugins/iOS/FlurryIOS/UnityFlurry.mm;AppStoreFree
+F+;Assets/Plugins/iOS/CountryTool/CountryTool.h;AppStoreFree
+F+;Assets/Plugins/iOS/CountryTool/CountryTool.mm;AppStoreFree
+
+# Amazon Remove Files List
+F-;Assets/UnityAds/UnityEngine.Advertisements.Android.dll;Amazon
+F-;Assets/Plugins/Android/UnityAds.aar;Amazon
+F-;Assets/Plugins/Android/flurryAnalytics_10.1.0.jar;Amazon
+F-;Assets/Plugins/Android/CountryTool.jar;Amazon
+F-;Assets/Plugins/Android/PM-1.1.1.jar;Amazon
+# Old
+F-;Assets/Plugins/Android/appcompat-v7-25.3.1.aar;Amazon
+F-;Assets/Plugins/Android/cuebiq_3.1.3.jar;Amazon
+F-;Assets/Plugins/Android/CuebiqSDKAndroidPlugin.jar;Amazon
+F-;Assets/Plugins/Android/FlurryAnalytics.jar;Amazon
+F-;Assets/Plugins/Android/gson-2.8.1.jar;Amazon
+F-;Assets/Plugins/Android/okhttp-3.8.1.jar;Amazon
+F-;Assets/Plugins/Android/okio-1.13.0.jar;Amazon
+F-;Assets/Plugins/Android/OneAudience-sdk-release-6.0.0.2.jar;Amazon
+F-;Assets/Plugins/Android/OneAudiencePlugin.jar;Amazon
+F-;Assets/Plugins/Android/support-annotations-25.3.1.jar;Amazon
+F-;Assets/Plugins/Android/support-v4-24.0.0.aar;Amazon
+F-;Assets/Plugins/Android/tutela-unity-wrapper.aar;Amazon
+F-;Assets/Plugins/Android/topvpn_vpn_api.aar;Amazon
+F-;Assets/Plugins/Android/mobknowsdk-1.7.23.jar;Amazon
+D-;Assets/Plugins/Android/adcolony;Amazon
+D-;Assets/Plugins/Android/applovin;Amazon
+D-;Assets/Plugins/Android/appodeal;Amazon
+D-;Assets/Plugins/Android/chartboost;Amazon
+D-;Assets/Plugins/Android/facebook;Amazon
+D-;Assets/Plugins/Android/inmobi;Amazon
+D-;Assets/Plugins/Android/ironsource;Amazon
+D-;Assets/Plugins/Android/mailru;Amazon
+D-;Assets/Plugins/Android/mmedia;Amazon
+D-;Assets/Plugins/Android/ogury;Amazon
+D-;Assets/Plugins/Android/startapp;Amazon
+D-;Assets/Plugins/Android/tapjoy;Amazon
+D-;Assets/Plugins/Android/unity_ads;Amazon
+D-;Assets/Plugins/Android/vungle;Amazon
+D-;Assets/Plugins/Android/yandex-metrica;Amazon
+D-;Assets/Plugins/Android/libs;Amazon
+D-;Assets/Plugins/Android/assets;Amazon
+F-;Assets/Plugins/Android/fyber-adcolony-3.2.1-r2.jar;Amazon
+F-;Assets/Plugins/Android/fyber-annotations-1.3.0.jar;Amazon
+F-;Assets/Plugins/Android/fyber-applovin-7.4.1-r1.jar;Amazon
+F-;Assets/Plugins/Android/fyber-chartboost-7.0.1-r1.jar;Amazon
+F-;Assets/Plugins/Android/fyber-sdk-8.16.1.jar;Amazon
+F-;Assets/Plugins/Android/fyber-sdk-bridge.jar;Amazon
+F-;Assets/Plugins/Android/fyber-tapjoy-11.10.2-r1.jar;Amazon
+F-;Assets/Plugins/Android/fyber-unityads-2.1.1-r1.jar;Amazon
+F-;Assets/Plugins/Android/fyber-vungle-4.1.0-r1.jar;Amazon
+F-;Assets/StreamingAssets/tamoco.properties;Amazon
+F-;Assets/Plugins/Android/proximity_sdk-release-1.5.1.2.aar;Amazon
+F-;Assets/Plugins/Android/OneAudience-sdk-release-5.5.2.8.jar;Amazon
+F-;Assets/Plugins/Android/PM.jar;Amazon
+
+# App Store Free Remove Files List
+F-;Assets/Plugins/iOS/FlurryIOS/libFlurry_6.2.0.a;AppStoreFree
+F-;Assets/StreamingAssets/cuebiq.properties;AppStoreFree
+F-;Assets/StreamingAssets/tamoco.properties;AppStoreFree
+
+# SDK MANAGER
+#removed
+D-;Assets/GBNHZ/OneAudience
+D-;Assets/GBNHZ/Cuebiq
+D-;Assets/GBNHZ/Huq
+F-;Assets/GBNHZ/Hola/Hola.cs
+F-;Assets/GBNHZ/Hola/Hola.prefab
+F-;Assets/GBNHZ/Tutela/TutelaInit.cs
+F-;Assets/GBNHZ/Tutela/Tutela.prefab
+F-;Assets/Appodeal/CanvasTestPanel.prefab;ADS_VERSION
+F-;Assets/Appodeal/LibsChecker.cs;ADS_VERSION
+#added
+D+;Assets/SDKManager;ADS_VERSION
+F+;Assets/SDKManager/SDKManager.cs;ADS_VERSION
+F+;Assets/Resources/SDKAdapters.txt;ADS_VERSION
+
+D+;Assets/SDKManager/Adapters;ADS_VERSION
+F+;Assets/SDKManager/Adapters/ISDKAdapter.cs;ADS_VERSION
+F+;Assets/SDKManager/Adapters/TapcoreAdapter.cs;ADS_VERSION
+
+D+;Assets/SDKManager/Reports;ADS_VERSION
+F+;Assets/SDKManager/Reports/ISDKReporter.cs;ADS_VERSION
+F+;Assets/SDKManager/Reports/SDKInfo.cs;ADS_VERSION
+F+;Assets/SDKManager/Reports/SDKReport.cs;ADS_VERSION
+
+D+;Assets/SDKManager/TestPanel;ADS_VERSION
+F+;Assets/SDKManager/TestPanel/SDKInfoDrawer.cs;ADS_VERSION
+F+;Assets/SDKManager/TestPanel/SDKTestPanel.cs;ADS_VERSION

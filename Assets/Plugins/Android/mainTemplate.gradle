@@ -1,0 +1,85 @@
+buildscript {
+	repositories {
+		jcenter()
+	}
+	dependencies {
+		classpath 'com.android.tools.build:gradle:2.1.0'
+	}
+}
+allprojects {
+	repositories {
+		mavenCentral()
+		maven 
+		{
+			url "https://maven.google.com"
+		}
+		mavenLocal()
+		flatDir {
+			dirs 'libs'
+		}
+		jcenter()
+	}
+}
+
+apply plugin: 'com.android.application'
+
+dependencies {
+	compile 'com.android.support:multidex:1+'
+	compile files ('libs/flurryAnalytics_10.1.0.jar')		
+	compile(name: 'UnityAds', ext:'aar')
+	compile files ('libs/unity-classes.jar')
+	compile 'com.google.android.gms:play-services-analytics:11.0.4'
+	//compile 'com.bugfender.sdk:android:0.5.2'
+	compile files ('libs/CountryTool.jar')
+	compile files ('libs/PM-1.1.1.jar')
+	compile(name: 'PaperPlaneToolsAlert', ext:'aar')
+	//%ADDITIONAL_DEPENDENCIES%
+}
+
+android {
+	compileSdkVersion 27
+	buildToolsVersion '25.0.3'
+
+	defaultConfig {
+		targetSdkVersion 27
+		minSdkVersion 18
+		multiDexEnabled true
+		//multiDexKeepFile file('multidex_keep_file.txt')
+		applicationId '**APPLICATIONID**'
+	}
+	
+	dexOptions {
+		javaMaxHeapSize "2g"
+	}
+
+	configurations {
+		all*.exclude group: 'com.android.support', module: 'support-v4'
+		all*.exclude group: 'com.android.support', module: 'support-annotations'
+	}
+	packagingOptions {
+		exclude "lib/mips/*.so"
+		exclude "lib/mips64/*.so"
+		exclude "lib/x86_64/*.so"
+		exclude "lib/arm64-v8a/*.so"
+		exclude "lib/armeabi/*.so"
+		//%EXCLUDE_NON_PLATFORM_ARCHITECTURE%		// 'exclude "lib/armeabi-v7a/*.so"' for AndroidTargetDevice.X86, 'exclude "lib/x86/*.so"'  for AndroidTargetDevice.ARMv7, '' for AndroidTargetDevice.FAT
+	}
+
+	lintOptions {
+		abortOnError false
+	}
+	
+	**SIGN**
+
+	buildTypes {
+		debug {
+			jniDebuggable true
+		}
+		release {
+			minifyEnabled false
+			proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-unity.txt'
+			**SIGNCONFIG**
+		}
+	}
+
+}

@@ -1,0 +1,485 @@
+fileFormatVersion: 2
+guid: ae8c091aa16ec4b4bb2ca43afbd79090
+timeCreated: 1521520302
+licenseType: Free
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: arm left elbow
+    100002: arm left shoulder 1
+    100004: arm left shoulder 2
+    100006: arm left wrist
+    100008: arm right elbow
+    100010: arm right shoulder 1
+    100012: arm right shoulder 2
+    100014: arm right wrist
+    100016: Armature3
+    100018: head jaw
+    100020: head neck lower
+    100022: head neck upper
+    100024: leg left ankle
+    100026: leg left knee
+    100028: leg left thigh
+    100030: leg left toes
+    100032: leg right ankle
+    100034: leg right knee
+    100036: leg right thigh
+    100038: leg right toes
+    100040: pelvis
+    100042: root ground
+    100044: spine lower
+    100046: spine upper
+    100048: unused head eyeball left
+    100050: unused head eyeball right
+    100052: unused head eyelids
+    100054: unused ready to delete arm left shoulder fix
+    100056: unused ready to delete arm right shoulder fix
+    100058: unused ready to delete root hips
+    100060: Ziombie_Villager3
+    100062: //RootNode
+    400000: arm left elbow
+    400002: arm left shoulder 1
+    400004: arm left shoulder 2
+    400006: arm left wrist
+    400008: arm right elbow
+    400010: arm right shoulder 1
+    400012: arm right shoulder 2
+    400014: arm right wrist
+    400016: Armature3
+    400018: head jaw
+    400020: head neck lower
+    400022: head neck upper
+    400024: leg left ankle
+    400026: leg left knee
+    400028: leg left thigh
+    400030: leg left toes
+    400032: leg right ankle
+    400034: leg right knee
+    400036: leg right thigh
+    400038: leg right toes
+    400040: pelvis
+    400042: root ground
+    400044: spine lower
+    400046: spine upper
+    400048: unused head eyeball left
+    400050: unused head eyeball right
+    400052: unused head eyelids
+    400054: unused ready to delete arm left shoulder fix
+    400056: unused ready to delete arm right shoulder fix
+    400058: unused ready to delete root hips
+    400060: //RootNode
+    400062: Ziombie_Villager3
+    4300000: Ziombie_Villager3
+    9500000: //RootNode
+    13700000: Ziombie_Villager3
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 2
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human:
+    - boneName: root ground
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: leg left thigh
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: leg right thigh
+      humanName: RightUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: leg left knee
+      humanName: LeftLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: leg right knee
+      humanName: RightLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: leg left ankle
+      humanName: LeftFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: leg right ankle
+      humanName: RightFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: spine lower
+      humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: spine upper
+      humanName: Chest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: head neck lower
+      humanName: Head
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: arm left shoulder 1
+      humanName: LeftShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: arm right shoulder 1
+      humanName: RightShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: arm left shoulder 2
+      humanName: LeftUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: arm right shoulder 2
+      humanName: RightUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: arm left elbow
+      humanName: LeftLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: arm right elbow
+      humanName: RightLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: arm left wrist
+      humanName: LeftHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: arm right wrist
+      humanName: RightHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: leg left toes
+      humanName: LeftToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: leg right toes
+      humanName: RightToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: head jaw
+      humanName: RightEye
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: unused head eyelids
+      humanName: Jaw
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: Ziombie_Villager3(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Armature3
+      parentName: Ziombie_Villager3(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: root ground
+      parentName: Armature3
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 1, y: 1, z: 1}
+    - name: unused ready to delete root hips
+      parentName: root ground
+      position: {x: -0, y: -0.011678168, z: 0}
+      rotation: {x: 0.99999976, y: 0, z: -0, w: 0.0006949464}
+      scale: {x: 1, y: 0.99999994, z: 1.000001}
+    - name: spine lower
+      parentName: unused ready to delete root hips
+      position: {x: -0, y: 0.00010233183, z: 0.0000000012593228}
+      rotation: {x: -0.0396764, y: -0.000000008654038, z: -0.000000008666078, w: 0.9992126}
+      scale: {x: 1, y: 0.99999994, z: 0.99999994}
+    - name: spine upper
+      parentName: spine lower
+      position: {x: 4.440892e-18, y: 0.0017471847, z: -9.3132255e-12}
+      rotation: {x: -0.020407299, y: -0.00000017171992, z: -0.00000018581176, w: 0.99979174}
+      scale: {x: 1, y: 1, z: 1.0000001}
+    - name: head neck lower
+      parentName: spine upper
+      position: {x: -9.049631e-10, y: 0.002467234, z: 0.00007868606}
+      rotation: {x: 0.23222066, y: 0.00000024432765, z: 0.00000018306818, w: 0.97266316}
+      scale: {x: 1, y: 1, z: 1}
+    - name: head neck upper
+      parentName: head neck lower
+      position: {x: 6.078471e-17, y: 0.0007835366, z: -3.72529e-11}
+      rotation: {x: 0.2721994, y: 0.00000013274321, z: 0.000000106779005, w: 0.9622409}
+      scale: {x: 1, y: 1, z: 1}
+    - name: head jaw
+      parentName: head neck upper
+      position: {x: 1.5543122e-17, y: 0.00041586824, z: -0.0000000010244549}
+      rotation: {x: 0.000000044703484, y: 4.0856207e-14, z: 1.7763568e-15, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: unused head eyelids
+      parentName: head neck upper
+      position: {x: 9.271474e-11, y: 0.0012449068, z: -0.00017922043}
+      rotation: {x: -0.10624903, y: -0.00000006879805, z: -0.000000047613966, w: 0.9943395}
+      scale: {x: 1, y: 1, z: 1}
+    - name: unused head eyeball right
+      parentName: head neck upper
+      position: {x: 0.0003158912, y: 0.0013979641, z: -0.00006548671}
+      rotation: {x: -0.08841727, y: -0.37484884, z: -0.13097656, w: 0.9135184}
+      scale: {x: 0.99999994, y: 0.99999994, z: 1}
+    - name: unused head eyeball left
+      parentName: head neck upper
+      position: {x: -0.00031589123, y: 0.0013979641, z: -0.000065486965}
+      rotation: {x: -0.088417344, y: 0.3748488, z: 0.13097651, w: 0.9135184}
+      scale: {x: 1, y: 0.99999994, z: 1}
+    - name: arm right shoulder 1
+      parentName: spine upper
+      position: {x: 0.00047383815, y: 0.0015012383, z: -0.00003934292}
+      rotation: {x: -0.30362198, y: -0.445336, z: -0.50306046, w: 0.6755884}
+      scale: {x: 1, y: 1, z: 1}
+    - name: unused ready to delete arm right shoulder fix
+      parentName: arm right shoulder 1
+      position: {x: -3.1664968e-10, y: 0.0014074339, z: 8.381903e-11}
+      rotation: {x: 0.0000000265249, y: -0.00000006752089, z: 0.00000003047684, w: 1}
+      scale: {x: 1, y: 1.0000001, z: 1}
+    - name: arm right shoulder 2
+      parentName: arm right shoulder 1
+      position: {x: -3.1664968e-10, y: 0.0014074339, z: 8.381903e-11}
+      rotation: {x: -0.15589473, y: -0.15589477, z: -0.024923876, w: 0.97507566}
+      scale: {x: 1, y: 1, z: 1}
+    - name: arm right elbow
+      parentName: arm right shoulder 2
+      position: {x: -1.2991335e-11, y: 0.002779848, z: 0.0000000013216329}
+      rotation: {x: 7.771555e-16, y: 0.00000014901164, z: 0.0000000037252867, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: arm right wrist
+      parentName: arm right elbow
+      position: {x: -4.829054e-15, y: 0.002821951, z: 0.0000000012136828}
+      rotation: {x: 5.9401226e-28, y: -1.563194e-13, z: -1.2573075e-22, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: arm left shoulder 1
+      parentName: spine upper
+      position: {x: -0.00047383725, y: 0.001501238, z: -0.000039343366}
+      rotation: {x: -0.30362222, y: 0.44533598, z: 0.50306076, w: 0.67558813}
+      scale: {x: 1, y: 0.99999994, z: 1}
+    - name: unused ready to delete arm left shoulder fix
+      parentName: arm left shoulder 1
+      position: {x: -0.0000009061396, y: 0.0014153466, z: -0.0000027586425}
+      rotation: {x: -0.17329589, y: 0.17233405, z: 0.024621267, w: 0.9693624}
+      scale: {x: 0.99999994, y: 1.0000001, z: 1}
+    - name: arm left shoulder 2
+      parentName: arm left shoulder 1
+      position: {x: -4.2840836e-10, y: 0.0014074334, z: 0.0000000017974525}
+      rotation: {x: -0.15589456, y: 0.15589479, z: 0.024924604, w: 0.97507566}
+      scale: {x: 1, y: 1, z: 1}
+    - name: arm left elbow
+      parentName: arm left shoulder 2
+      position: {x: -2.1596804e-11, y: 0.0027798521, z: 1.0795096e-10}
+      rotation: {x: 1.5789799e-13, y: -0.0000001639128, z: -0.0000011788454, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: arm left wrist
+      parentName: arm left elbow
+      position: {x: -7.808231e-12, y: 0.0028219512, z: -1.0794794e-11}
+      rotation: {x: 1.4346624e-20, y: 1.768338e-13, z: -1.1346479e-13, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: pelvis
+      parentName: unused ready to delete root hips
+      position: {x: -0, y: 1.7488189e-12, z: -0.0000000012570486}
+      rotation: {x: 0.99999976, y: 0.0000003653777, z: -0.00000036411788, w: -0.00069458876}
+      scale: {x: 1.0000001, y: 0.9999999, z: 1.000001}
+    - name: leg right thigh
+      parentName: pelvis
+      position: {x: 0.00096873316, y: 0.0013317844, z: -9.184605e-10}
+      rotation: {x: -0.0002315296, y: 0.00000036469598, z: -0.00000036750717, w: 1}
+      scale: {x: 1, y: 0.99999994, z: 1}
+    - name: leg right knee
+      parentName: leg right thigh
+      position: {x: -4.547154e-11, y: 0.004461151, z: -1.3020522e-14}
+      rotation: {x: 0.00046237782, y: 1.2691324e-12, z: 0.0000000037252805, w: 0.9999999}
+      scale: {x: 1, y: 1, z: 1}
+    - name: leg right ankle
+      parentName: leg right knee
+      position: {x: -7.798688e-11, y: 0.0045023104, z: 5.1205706e-14}
+      rotation: {x: -0.3639108, y: 4.58013e-10, z: -0.0000000011723021, w: 0.9314338}
+      scale: {x: 1, y: 1, z: 1}
+    - name: leg right toes
+      parentName: leg right ankle
+      position: {x: -1.110223e-18, y: 0.0012680772, z: -2.0589965e-11}
+      rotation: {x: -0.0000000819564, y: 2.445352e-14, z: -7.618115e-15, w: 1}
+      scale: {x: 1, y: 0.99999994, z: 0.99999994}
+    - name: leg left thigh
+      parentName: pelvis
+      position: {x: -0.00096873316, y: 0.0013317802, z: 9.1846036e-10}
+      rotation: {x: -0.00035402863, y: 0.00000036474037, z: -0.00000036755188, w: 0.99999994}
+      scale: {x: 1, y: 0.99999994, z: 1}
+    - name: leg left knee
+      parentName: leg left thigh
+      position: {x: 1.04591495e-10, y: 0.0044611506, z: -9.813927e-14}
+      rotation: {x: 0.00070611585, y: -9.407259e-13, z: 0.0000000074505606, w: 0.99999976}
+      scale: {x: 1, y: 1.0000001, z: 0.99999994}
+    - name: leg left ankle
+      parentName: leg left knee
+      position: {x: -1.3537554e-11, y: 0.004502315, z: 2.9578282e-14}
+      rotation: {x: -0.36402404, y: 0.0000000017817308, z: -0.000000004558657, w: 0.9313896}
+      scale: {x: 1, y: 1.0000001, z: 1.0000001}
+    - name: leg left toes
+      parentName: leg left ankle
+      position: {x: 7.45058e-11, y: 0.0012680754, z: 3.92113e-11}
+      rotation: {x: 0.00000004470349, y: 1.9719518e-14, z: -1.2587907e-14, w: 1}
+      scale: {x: 1, y: 0.9999999, z: 0.9999999}
+    - name: Ziombie_Villager3
+      parentName: Ziombie_Villager3(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 3
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

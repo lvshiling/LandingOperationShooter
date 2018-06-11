@@ -1,0 +1,20 @@
+1D5xFShsbzIHIaKSCJbyPZwU00KhD5pkbLsw0tzQ1FcA
+_SHEET_SEPOR_
+WeaponShop ///
+SkillShopItem ///
+SkillShop ///
+UpgradeCost ///
+UpgradeCostItem ///
+
+_DATA_SEPOR_
+[{"itemName":"Tichon","id":1,"cost":0,"damage":5,"reloadTime":1,"ammoCount":6,"accuracy":1},{"itemName":"Damir","id":2,"cost":100,"damage":3,"reloadTime":1,"ammoCount":12,"accuracy":1},{"itemName":"Bogna","id":3,"cost":300,"damage":4,"reloadTime":1,"ammoCount":18,"accuracy":1},{"itemName":"Jaksa","id":4,"cost":500,"damage":4,"reloadTime":1,"ammoCount":24,"accuracy":1},{"itemName":"Czerny","id":5,"cost":700,"damage":3,"reloadTime":1,"ammoCount":24,"accuracy":1},{"itemName":"Lavro","id":6,"cost":900,"damage":4,"reloadTime":1,"ammoCount":24,"accuracy":1},{"itemName":"Chwalibog","id":7,"cost":1100,"damage":3,"reloadTime":1,"ammoCount":12,"accuracy":1},{"itemName":"Tzar","id":8,"cost":1300,"damage":5,"reloadTime":1,"ammoCount":18,"accuracy":1},{"itemName":"Type-2","id":9,"cost":1500,"damage":4,"reloadTime":1,"ammoCount":24,"accuracy":1}]
+ ///
+[{"itemName":"damage","id":1,"cost":"","maxCount":3,"minCount":1},{"itemName":"ammo","id":2,"cost":"","maxCount":3,"minCount":1}]
+ ///
+[{"itemName":"Health","id":1,"cost":"","maxCount":8,"minCount":0},{"itemName":"Regeneration","id":2,"cost":"","maxCount":8,"minCount":1}]
+ ///
+[{"upgradeLvl":1,"cost":0},{"upgradeLvl":2,"cost":10},{"upgradeLvl":3,"cost":20},{"upgradeLvl":4,"cost":30},{"upgradeLvl":5,"cost":40},{"upgradeLvl":6,"cost":50},{"upgradeLvl":7,"cost":60},{"upgradeLvl":8,"cost":70}]
+ ///
+[{"upgradeLvl":1,"cost":0},{"upgradeLvl":2,"cost":10},{"upgradeLvl":3,"cost":20},{"upgradeLvl":4,"cost":30},{"upgradeLvl":5,"cost":40},{"upgradeLvl":6,"cost":50},{"upgradeLvl":7,"cost":60},{"upgradeLvl":8,"cost":70}] ///
+
+_BOOK_SEPOR_

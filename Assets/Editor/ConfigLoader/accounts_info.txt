@@ -1,0 +1,777 @@
+{
+  "urls": {
+    "cooltool": "https://cooltool.gbn.company/v1/",
+    "youtube": "https://www.youtube.com/channel/UCEzPv5QrIUbaIru7z2ddOsA?sub_confirmation=1",
+    "companies": [
+      {
+        "name": "Amazing Games",
+        "store": "Amazon",
+        "policy": "",
+        "email": "",
+        "url": "http://www.amazon.com/s/ref=bl_sr_mobile-apps?_encoding=UTF8&field-brandtextbin=Amazing%203D%20Games&node=2350149011"
+      },
+      {
+        "name": "Mobile Hero",
+        "store": "Google",
+        "policy": "https://ariefmuriawan.wixsite.com/mobilehero/single-post/2017/02/16/MOBILE-HERO-PRIVACY-POLICY",
+        "email": "ariefmuriawan@gmail.com",
+        "url": "https://play.google.com/store/apps/dev?id=8439669706099119356",
+        "holapolicy": "https://ariefmuriawan.wixsite.com/mobilehero/single-post/2017/12/18/MOBILE-HERO-PRIVACY-POLICY",
+        "gdprpolicy": "https://ariefmuriawan.wixsite.com/mobilehero/single-post/2018/05/16/MOBILE-HERO-PRIVACY-POLICY"
+      },
+      {
+        "name": "Assassin Revenge",
+        "store": "Google",
+        "policy": "http://vasilijpervic.wixsite.com/assassinrevenge/single-post/2017/03/23/ASSASSIN-REVENGE-PRIVACY-POLICY",
+        "email": "vasilijpervic@gmail.com",
+        "url": "https://play.google.com/store/apps/developer?id=Assassin+Revenge",
+        "holapolicy": "http://vasilijpervic.wixsite.com/assassinrevenge/single-post/2017/12/19/ASSASSIN-REVENGE-PRIVACY-POLICY",
+        "gdprpolicy": "http://vasilijpervic.wixsite.com/assassinrevenge/single-post/2018/05/16/ASSASSIN-REVENGE-PRIVACY-POLICY"
+      },
+      {
+        "name": "Big Mad Games",
+        "store": "Google",
+        "policy": "https://approk672.wixsite.com/bigmadgames/single-post/2017/02/16/BIG-MAD-GAMES-PRIVACY-POLICY",
+        "email": "approk672@gmail.com",
+        "url": "https://play.google.com/store/apps/developer?id=Big+Mad+Games",
+        "holapolicy": "https://approk672.wixsite.com/bigmadgames/single-post/2017/12/19/BIG-MAD-GAMES-PRIVACY-POLICY"
+      },
+      {
+        "name": "BrosGames",
+        "store": "Google",
+        "policy": "https://vchig1221.wixsite.com/brosgames/single-post/2017/02/16/BROS-GAMES-PRIVACY-POLICY",
+        "email": "vchig1221@gmail.com",
+        "url": "https://play.google.com/store/apps/dev?id=7679796788094027169",
+        "holapolicy": "https://vchig1221.wixsite.com/brosgames/single-post/2017/12/19/BROS-GAMES-PRIVACY-POLICY"
+      },
+      {
+        "name": "Cartoon World Games",
+        "store": "Google",
+        "policy": "https://ollpavreuma.wixsite.com/cartoonworldgames/single-post/2017/02/16/CARTOON-WORLD-GAMES-PRIVACY-POLICY",
+        "email": "ollpavreuma@gmail.com",
+        "url": "https://play.google.com/store/apps/dev?id=7551531371208256585",
+        "holapolicy": "https://ollpavreuma.wixsite.com/cartoonworldgames/single-post/2017/12/19/CARTOON-WORLD-GAMES-PRIVACY-POLICY",
+        "gdprpolicy": "https://ollpavreuma.wixsite.com/cartoonworldgames/single-post/2018/05/16/CARTOON-WORLD-GAMES-PRIVACY-POLICY"
+      },
+      {
+        "name": "ClickBangPlay",
+        "store": "Google",
+        "policy": "https://kalimator2015.wixsite.com/clickbangplay/single-post/2017/02/16/CLICK-BANG-PLAY-PRIVACY-POLICY",
+        "email": "kalimator2015@gmail.com",
+        "url": "https://play.google.com/store/apps/developer?id=ClickBangPlay",
+        "holapolicy": "https://kalimator2015.wixsite.com/clickbangplay/single-post/2017/12/19/CLICK-BANG-PLAY-PRIVACY-POLICY"
+      },
+      {
+        "name": "Fury Games Team",
+        "store": "Google",
+        "policy": "http://valart331.wixsite.com/furygamesteam/single-post/2017/03/27/FURY-GAMES-TEAM-PRIVACY-POLICY",
+        "email": "valart331@gmail.com",
+        "url": "https://play.google.com/store/apps/developer?id=Fury+Games+Team",
+        "holapolicy": "http://valart331.wixsite.com/furygamesteam/single-post/2017/12/19/FURY-GAMES-TEAM-PRIVACY-POLICY"
+      },
+      {
+        "name": "Epic mobile studio",
+        "store": "Google",
+        "policy": "https://baraneynikita.wixsite.com/epicmobilestudio/single-post/2017/04/03/EPIC-MOBILE-STUDIO-PRIVACY-POLICY",
+        "email": "baraneynikita@gmail.com",
+        "url": "https://play.google.com/store/apps/developer?id=Epic+mobile+studio",
+        "holapolicy": "https://baraneynikita.wixsite.com/epicmobilestudio/single-post/2017/12/19/EPIC-MOBILE-STUDIO-PRIVACY-POLICY",
+        "gdprpolicy": "https://baraneynikita.wixsite.com/epicmobilestudio/single-post/2018/05/16/EPIC-MOBILE-STUDIO-PRIVACY-POLICY"
+      },
+      {
+        "name": "Games Arcade",
+        "store": "Google",
+        "policy": "http://7e4enie.wixsite.com/gamesarcade/single-post/2017/02/16/GAMES-ARCADE-PRIVACY-POLICY",
+        "email": "7e4enie@gmail.com",
+        "url": "https://play.google.com/store/apps/dev?id=4913373557489765741",
+        "holapolicy": "http://7e4enie.wixsite.com/gamesarcade/single-post/2017/12/19/GAMES-ARCADE-PRIVACY-POLICY"
+      },
+      {
+        "name": "Gaming Fever",
+        "store": "Google",
+        "policy": "https://dubovenoolga.wixsite.com/gamingfever/single-post/2017/02/16/GAMING-FEVER-PRIVACY-POLICY",
+        "email": "dubovenoolga@gmail.com",
+        "url": "https://play.google.com/store/apps/developer?id=Gaming+Fever",
+        "holapolicy": "https://dubovenoolga.wixsite.com/gamingfever/single-post/2017/12/19/GAMING-FEVER-PRIVACY-POLICY"
+      },
+      {
+        "name": "Go Reality",
+        "store": "Google",
+        "policy": "https://atalanmerinoza.wixsite.com/goreality/single-post/2017/02/16/GO-REALITY-PRIVACY-POLICY",
+        "email": "atalanmerinoza@gmail.com",
+        "url": "https://play.google.com/store/apps/developer?id=Go%20Reality"
+      },
+      {
+        "name": "Infinity Lane Studio",
+        "store": "Google",
+        "policy": "https://kaniwevskyart.wixsite.com/infinitylanestudio/single-post/2017/02/16/INFINITY-LANE-STUDIO-PRIVACY-POLICY",
+        "email": "kaniwevskyart@gmail.com",
+        "url": "https://play.google.com/store/apps/developer?id=Infinity+Lane+Studio",
+        "holapolicy": "https://kaniwevskyart.wixsite.com/infinitylanestudio/single-post/2017/12/19/INFINITY-LANE-STUDIO-PRIVACY-POLICY",
+        "gdprpolicy": "https://kaniwevskyart.wixsite.com/infinitylanestudio/single-post/2018/05/16/INFINITY-LANE-STUDIO-PRIVACY-POLICY"
+      },
+      {
+        "name": "innovategames",
+        "store": "Google",
+        "policy": "https://krivtsovtolik8.wixsite.com/innovategames/single-post/2017/02/16/INNOVATE-GAMES-PRIVACY-POLICY",
+        "email": "krivtsovtolik8@gmail.com",
+        "url": ""
+      },
+      {
+        "name": "Life Sim Games",
+        "store": "Google",
+        "policy": "https://kvazilyuk.wixsite.com/lifesimgames/single-post/2017/02/16/LIFE-SIM-GAMES-PRIVACY-POLICY",
+        "email": "k.vazilyuk@gmail.com",
+        "url": "https://play.google.com/store/apps/dev?id=8362413709616618214",
+        "holapolicy": "https://kvazilyuk.wixsite.com/lifesimgames/single-post/2017/10/24/LIFE-SIM-GAMES-PRIVACY-POLICY"
+      },
+      {
+        "name": "MyPocketGames",
+        "store": "Google",
+        "policy": "http://ksgu3304.wixsite.com/mypocketgames/single-post/2017/02/16/MY-POCKET-GAMES-PRIVACY-POLICY",
+        "email": "ksgu3304@gmail.com",
+        "url": "https://play.google.com/store/apps/dev?id=5694687920978409514",
+        "holapolicy": "http://ksgu3304.wixsite.com/mypocketgames/single-post/2017/12/19/MY-POCKET-GAMES-PRIVACY-POLICY"
+      },
+      {
+        "name": "Pixel Island",
+        "store": "Google",
+        "policy": "https://cam97lgrm3.wixsite.com/pixelisland/single-post/2017/02/16/PIXEL-ISLAND-PRIVACY-POLICY",
+        "email": "cam97.lgrm3@gmail.com",
+        "url": "https://play.google.com/store/apps/dev?id=6982910929677808272",
+        "holapolicy": "https://cam97lgrm3.wixsite.com/pixelisland/single-post/2017/12/19/PIXEL-ISLAND-PRIVACY-POLICY"
+      },
+      {
+        "name": "Play Unit",
+        "store": "Google",
+        "policy": "https://faircasinogames.wixsite.com/playunit/single-post/2017/02/16/PLAY-UNIT-PRIVACY-POLICY",
+        "email": "faircasinogames@gmail.com",
+        "url": "https://play.google.com/store/apps/developer?id=PlayUnit",
+        "holapolicy": "https://faircasinogames.wixsite.com/playunit/single-post/2017/12/19/PLAY-UNIT-PRIVACY-POLICY"
+      },
+      {
+        "name": "PlayMechanics",
+        "store": "Google",
+        "policy": "http://8amwan.wixsite.com/playmechanics/single-post/2017/02/16/PLAY-MECHANICS-PRIVACY-POLICY",
+        "email": "8am.wan@gmail.com",
+        "url": "https://play.google.com/store/apps/dev?id=8973280186746174189",
+        "holapolicy": "http://8amwan.wixsite.com/playmechanics/single-post/2017/12/19/PLAY-MECHANICS-PRIVACY-POLICY",
+        "gdprpolicy": "http://8amwan.wixsite.com/playmechanics/single-post/2018/05/16/PLAY-MECHANICS-PRIVACY-POLICY"
+      },
+      {
+        "name": "Power Gaming",
+        "store": "Google",
+        "policy": "https://bulashkovamaria.wixsite.com/powergaming/single-post/2017/02/16/POWER-GAMING-PRIVACY-POLICY",
+        "email": "bulashkovamaria@gmail.com",
+        "url": "https://play.google.com/store/apps/developer?id=Power+Gaming",
+        "holapolicy": "https://bulashkovamaria.wixsite.com/powergaming/single-post/2017/12/19/POWER-GAMING-PRIVACY-POLICY",
+        "gdprpolicy": "https://bulashkovamaria.wixsite.com/powergaming/single-post/2018/05/16/POWER-GAMING-PRIVACY-POLICY"
+      },
+      {
+        "name": "Princess Diary Games",
+        "store": "Google",
+        "policy": "http://petrmarus413.wixsite.com/princessdiarygames/single-post/2017/03/23/PRINCESS-DIARY-GAMES-PRIVACY-POLICY",
+        "email": "petrmarus413@gmail.com",
+        "url": "https://play.google.com/store/apps/developer?id=Princess+Diary+Games",
+        "holapolicy": "http://petrmarus413.wixsite.com/princessdiarygames/single-post/2017/12/19/PRINCESS-DIARY-GAMES-PRIVACY-POLICY"
+      },
+      {
+        "name": "Super Sport Team",
+        "store": "Google",
+        "policy": "https://valleysib7.wixsite.com/supersportteam/single-post/2017/02/16/SUPER-SPORT-TEAM-PRIVACY-POLICY",
+        "email": "valleysib7@gmail.com",
+        "url": "https://play.google.com/store/apps/dev?id=7778566107506675825",
+        "holapolicy": "https://valleysib7.wixsite.com/supersportteam/single-post/2017/12/19/SUPER-SPORT-TEAM-PRIVACY-POLICY",
+        "gdprpolicy": "https://valleysib7.wixsite.com/supersportteam/single-post/2018/05/16/SUPER-SPORT-TEAM-PRIVACY-POLICY"
+      },
+      {
+        "name": "Taiga Games",
+        "store": "Google",
+        "policy": "https://contenttaiga.wixsite.com/taigagames/single-post/2017/02/16/TAIGA-GAMES-PRIVACY-POLICY",
+        "email": "content.taiga@gmail.com",
+        "url": "https://play.google.com/store/apps/dev?id=7523465495536214681",
+        "holapolicy": "https://contenttaiga.wixsite.com/taigagames/single-post/2017/10/24/TAIGA-GAMES-PRIVACY-POLICY",
+        "gdprpolicy": "https://contenttaiga.wixsite.com/taigagames/single-post/2018/05/16/TAIGA-GAMES-PRIVACY-POLICY"
+      },
+      {
+        "name": "Trigger Team",
+        "store": "Google",
+        "policy": "http://kukuwe4kafm.wixsite.com/triggerteam/single-post/2017/02/16/TRIGGER-TEAM-PRIVACY-POLICY",
+        "email": "kukuwe4ka.fm@gmail.com",
+        "url": "https://play.google.com/store/apps/dev?id=4963888669521974527",
+        "holapolicy": "http://kukuwe4kafm.wixsite.com/triggerteam/single-post/2017/12/18/TRIGGER-TEAM-PRIVACY-POLICY"
+      },
+      {
+        "name": "Virtual 3D Worlds",
+        "store": "Google",
+        "policy": "https://julyb1672.wixsite.com/virtual3dworld/single-post/2017/02/16/VIRTUAL-3D-WORLD-PRIVACY-POLICY",
+        "email": "julyb1672@gmail.com",
+        "url": "https://play.google.com/store/apps/developer?id=Virtual+3D+Worlds",
+        "holapolicy": "https://julyb1672.wixsite.com/virtual3dworld/single-post/2017/12/19/VIRTUAL-3D-WORLD-PRIVACY-POLICY",
+        "gdprpolicy": "https://julyb1672.wixsite.com/virtual3dworld/single-post/2018/05/16/VIRTUAL-3D-WORLDS-PRIVACY-POLICY"
+      },
+      {
+        "name": "VR Hero",
+        "store": "Google",
+        "policy": "https://andewmalinovsky.wixsite.com/vrhero/single-post/2017/02/16/VR-HERO-PRIVACY-POLICY",
+        "email": "andewmalinovsky@gmail.com",
+        "url": "https://play.google.com/store/apps/developer?id=VR+Hero",
+        "holapolicy": "https://andewmalinovsky.wixsite.com/vrhero/single-post/2017/12/19/VR-HERO-LIFE-PRIVACY-POLICY"
+      },
+      {
+        "name": "Wild Animals Clan",
+        "store": "Google",
+        "policy": "http://molgentech.wixsite.com/wildanimalsclan/single-post/2017/04/14/WILD-ANIMALS-CLAN-PRIVACY-POLICY",
+        "email": "molgentech@gmail.com",
+        "url": "https://play.google.com/store/apps/developer?id=Wild+Animals+Clan",
+        "holapolicy": "http://molgentech.wixsite.com/wildanimalsclan/single-post/2017/10/24/WILD-ANIMALS-CLAN-PRIVACY-POLICY"
+      },
+      {
+        "name": "Wild Animals Life",
+        "store": "Google",
+        "policy": "https://haleenwasadi.wixsite.com/wildanimalslife/single-post/2017/02/16/WILD-ANIMALS-LIFE-PRIVACY-POLICY",
+        "email": "haleenwasadi@gmail.com",
+        "url": "https://play.google.com/store/apps/developer?id=Wild+Animals+Life",
+        "holapolicy": "https://haleenwasadi.wixsite.com/wildanimalslife/single-post/2017/10/23/WILD-ANIMALS-LIFE-PRIVACY-POLICY"
+      },
+      {
+        "name": "WonderAnimals",
+        "store": "Google",
+        "policy": "https://roznicnhayasveta.wixsite.com/wonderanimals/single-post/2017/02/16/WONDER-ANIMALS-PRIVACY-POLICY",
+        "email": "roznicnhayasveta@gmail.com",
+        "url": "https://play.google.com/store/apps/dev?id=7293511510877696894",
+        "holapolicy": "https://roznicnhayasveta.wixsite.com/wonderanimals/single-post/2017/10/24/WONDER-ANIMALS-PRIVACY-POLICY"
+      },
+      {
+        "name": "World of Cubes",
+        "store": "Google",
+        "policy": "https://cubicsworld.wixsite.com/worldofcubes/single-post/2017/02/16/WORLD-OF-CUBES-PRIVACY-POLICY",
+        "email": "cubicsworld@gmail.com",
+        "url": "https://play.google.com/store/apps/dev?id=8085854284522946035",
+        "holapolicy": "https://cubicsworld.wixsite.com/worldofcubes/single-post/2017/12/19/WORLD-OF-CUBES-PRIVACY-POLICY"
+      },
+      {
+        "name": "Epic Battle Studio",
+        "store": "Google",
+        "policy": "http://epicbattlestudio.wixsite.com/epicbattlestudio/single-post/2017/07/14/EPIC-BATTLE-STUDIO-PRIVACY-POLICY",
+        "email": "epicbattlestudio@gmail.com",
+        "url": "https://play.google.com/store/apps/developer?id=Epic+Battle+Studio",
+        "holapolicy": "http://epicbattlestudio.wixsite.com/epicbattlestudio/single-post/2017/12/19/EPIC-BATTLE-STUDIO-PRIVACY-POLICY",
+        "gdprpolicy": "http://epicbattlestudio.wixsite.com/epicbattlestudio/single-post/2018/05/16/EPIC-BATTLE-STUDIO-PRIVACY-POLICY"
+      },
+      {
+        "name": "Mobile Sim Universe",
+        "store": "Google",
+        "policy": "http://mobilesimuniverse.wixsite.com/mobilesimuniverse/single-post/2017/07/14/MOBILE-SIM-UNIVERSE-PRIVACY-POLICY",
+        "email": "mobilesimuniverse@gmail.com",
+        "url": "https://play.google.com/store/apps/developer?id=Mobile+Sim+Universe",
+        "holapolicy": "http://mobilesimuniverse.wixsite.com/mobilesimuniverse/single-post/2017/11/15/MOBILE-SIM-UNIVERSE-PRIVACY-POLICY",
+        "gdprpolicy": "http://mobilesimuniverse.wixsite.com/mobilesimuniverse/single-post/2018/05/16/MOBILE-SIM-UNIVERSE-PRIVACY-POLICY"
+      },
+      {
+        "name": "Mobile Simulators World",
+        "store": "Google",
+        "policy": "http://mobilesimulatorswo.wixsite.com/mobilesimworld/single-post/2017/06/15/MOBILE-SIMULATORS-WORLD-PRIVACY-POLICY",
+        "email": "mobilesimulatorsworld@gmail.com",
+        "url": "https://play.google.com/store/apps/developer?id=Mobile+Simulators+World",
+        "holapolicy": "http://mobilesimulatorswo.wixsite.com/mobilesimworld/single-post/2017/10/24/MOBILE-SIMULATORS-WORLD-PRIVACY-POLICY",
+        "gdprpolicy": "http://mobilesimulatorswo.wixsite.com/mobilesimworld/single-post/2018/05/16/MOBILE-SIMULATORS-WORLD-PRIVACY-POLICY"
+      },
+      {
+        "name": "No Limit Action",
+        "store": "Google",
+        "policy": "http://nolimitaction.wixsite.com/nolimitaction/single-post/2017/06/21/NO-LIMIT-ACTION-PRIVACY-POLICY",
+        "email": "nolimitaction@gmail.com",
+        "url": "https://play.google.com/store/apps/developer?id=No+Limit+Action",
+        "holapolicy": "http://nolimitaction.wixsite.com/nolimitaction/single-post/2017/11/15/NO-LIMIT-ACTION-PRIVACY-POLICY",
+        "gdprpolicy": "http://nolimitaction.wixsite.com/nolimitaction/single-post/2018/05/16/NO-LIMIT-ACTION-PRIVACY-POLICY"
+      },
+      {
+        "name": "Pocket Games Tycoon",
+        "store": "Google",
+        "policy": "http://pocketgamestycoon.wixsite.com/pocketgamestycoon/single-post/2017/08/01/POCKET-GAMES-TYCOON-PRIVACY-POLICY",
+        "email": "pocketgamestycoon@gmail.com",
+        "url": "https://play.google.com/store/apps/developer?id=Pocket+Games+Tycoon",
+        "holapolicy": "http://pocketgamestycoon.wixsite.com/pocketgamestycoon/single-post/2017/12/19/POCKET-GAMES-TYCOON-PRIVACY-POLICY"
+      },
+      {
+        "name": "Pocket Sports Life",
+        "store": "Google",
+        "policy": "https://pocketsportslife.wixsite.com/pocketsportslife/single-post/2017/07/19/POCKET-SPORTS-LIFE-PRIVACY-POLICY",
+        "email": "pocketsportslife@gmail.com",
+        "url": "https://play.google.com/store/apps/developer?id=Pocket+Sports+Life",
+        "holapolicy": "https://pocketsportslife.wixsite.com/pocketsportslife/single-post/2017/11/15/POCKET-SPORTS-LIFE-PRIVACY-POLICY",
+        "gdprpolicy": "https://pocketsportslife.wixsite.com/pocketsportslife/single-post/2018/05/16/POCKET-SPORTS-LIFE-PRIVACY-POLICY"
+      },
+      {
+        "name": "Smart Games Lab",
+        "store": "Google",
+        "policy": "http://smartgameslab.wixsite.com/smartgameslab/single-post/2017/06/27/SMART-GAMES-LAB-PRIVACY-POLICY",
+        "email": "smartgameslab@gmail.com",
+        "url": "https://play.google.com/store/apps/developer?id=Smart+Games+Lab",
+        "holapolicy": "http://smartgameslab.wixsite.com/smartgameslab/single-post/2017/12/19/SMART-GAMES-LAB-PRIVACY-POLICY",
+        "gdprpolicy": "http://smartgameslab.wixsite.com/smartgameslab/single-post/2018/05/16/SMART-GAMES-LAB-PRIVACY-POLICY"
+      },
+      {
+        "name": "Virtual Animals World",
+        "store": "Google",
+        "policy": "http://virtualanimalsworl.wixsite.com/virtualanimalsworld/single-post/2017/06/27/VIRTUAL-ANIMALS-WORLD-PRIVACY-POLICY",
+        "email": "virtualanimalsworld@gmail.com",
+        "url": "https://play.google.com/store/apps/developer?id=Virtual+Animals+World",
+        "holapolicy": "http://virtualanimalsworl.wixsite.com/virtualanimalsworld/single-post/2017/10/24/VIRTUAL-ANIMALS-WORLD-PRIVACY-POLICY"
+      },
+      {
+        "name": "Animals Wildlife Studio",
+        "store": "Google",
+        "policy": "http://animalswildlifestu.wixsite.com/animalswildlife/single-post/2017/07/27/ANIMALS-WILDLIFE-STUDIO-PRIVACY-POLICY",
+        "email": "animalswildlifestudio@gmail.com",
+        "url": "https://play.google.com/store/apps/developer?id=Animals+Wildlife+Studio",
+        "holapolicy": "http://animalswildlifestu.wixsite.com/animalswildlife/single-post/2017/12/19/ANIMALS-WILDLIFE-STUDIO-PRIVACY-POLICY",
+        "gdprpolicy": "http://animalswildlifestu.wixsite.com/animalswildlife/single-post/2018/05/16/Animals-Wildlife-Studio-Privacy-Policy"
+      },
+      {
+        "name": "Battle Gaming Studio",
+        "store": "Google",
+        "policy": "https://battlegamingstudio.wixsite.com/battlegamingstudio/single-post/2017/09/28/BATTLE-GAMING-STUDIO-PRIVACY-POLICY",
+        "email": "battlegamingstudio@gmail.com",
+        "url": "https://play.google.com/store/apps/developer?id=Battle+Gaming+Studio",
+        "holapolicy": "https://battlegamingstudio.wixsite.com/battlegamingstudio/single-post/2017/12/19/BATTLE-GAMING-STUDIO-PRIVACY-POLICY"
+      },
+      {
+        "name": "My Pocket Animals Studio",
+        "store": "Google",
+        "policy": "https://mypocketanimalsstu.wixsite.com/mypocketanimals/single-post/2017/09/29/MY-POCKET-ANIMALS-STUDIO-PRIVACY-POLICY",
+        "email": "mypocketanimalsstudio@gmail.com",
+        "url": "https://play.google.com/store/apps/developer?id=My+Pocket+Animals+Studio",
+        "holapolicy": "https://mypocketanimalsstu.wixsite.com/mypocketanimals/single-post/2017/12/19/MY-POCKET-ANIMALS-STUDIO-PRIVACY-POLICY",
+        "gdprpolicy": "https://mypocketanimalsstu.wixsite.com/mypocketanimals/single-post/2018/05/16/MY-POCKET-ANIMALS-STUDIO-PRIVACY-POLICY"
+      },
+      {
+        "name": "Colorful Lab",
+        "store": "Google",
+        "policy": "http://colorfullaboratory.wixsite.com/colorfullab/single-post/2017/06/27/COLORFUL-LAB-PRIVACY-POLICY",
+        "email": "colorfullaboratory@gmail.com",
+        "url": "https://play.google.com/store/apps/developer?id=Colorful+Lab",
+        "holapolicy": "http://colorfullaboratory.wixsite.com/colorfullab/single-post/2017/12/19/COLORFUL-LAB-PRIVACY-POLICY",
+        "gdprpolicy": "http://colorfullaboratory.wixsite.com/colorfullab/single-post/2018/05/16/COLORFUL-LAB-PRIVACY-POLICY"
+      },
+      {
+        "name": "Craft World Team",
+        "store": "Google",
+        "policy": "https://craftworldteam.wixsite.com/craftworldteam/single-post/2017/07/18/CRAFT-WORLD-TEAM-PRIVACY-POLICY",
+        "email": "craftworldteam@gmail.com",
+        "url": "https://play.google.com/store/apps/developer?id=Craft+World+Team",
+        "holapolicy": "https://craftworldteam.wixsite.com/craftworldteam/single-post/2017/12/19/CRAFT-WORLD-TEAM-PRIVACY-POLICY",
+        "gdprpolicy": "https://craftworldteam.wixsite.com/craftworldteam/single-post/2018/05/16/CRAFT-WORLD-TEAM-PRIVACY-POLICY"
+      },
+      {
+        "name": "Real Life Games",
+        "store": "Google",
+        "policy": "https://reallifegames64.wixsite.com/reallifegames/single-post/2017/10/30/REAL-LIFE-GAMES-PRIVACY-POLICY",
+        "email": "reallifegames64@gmail.com",
+        "url": "https://play.google.com/store/apps/developer?id=Real+Life+Games",
+        "holapolicy": "https://reallifegames64.wixsite.com/reallifegames/single-post/2017/12/19/REAL-LIFE-GAMES-PRIVACY-POLICY"
+      },
+      {
+        "name": "RnD Test Laba",
+        "store": "Google",
+        "policy": "https://reallifegames64.wixsite.com/reallifegames/single-post/2017/10/30/REAL-LIFE-GAMES-PRIVACY-POLICY",
+        "email": "test@gmail.com",
+        "url": "https://play.google.com/store/apps/developer?id=RnD+Test+Laba",
+        "holapolicy": "https://reallifegames64.wixsite.com/reallifegames/single-post/2017/12/19/REAL-LIFE-GAMES-PRIVACY-POLICY"
+      },
+      {
+        "name": "Creative Simulators Studio",
+        "store": "Google",
+        "policy": "https://creativesimulators.wixsite.com/mysite/blog/creative-simulators-studio-privacy-policy",
+        "email": "creativesimulatorsstudio@gmail.com",
+        "url": "https://play.google.com/store/apps/developer?id=Creative+Simulators+Studio",
+        "holapolicy": "https://creativesimulators.wixsite.com/mysite/blog/creative-simulators-studio-privacy-policy-1",
+        "gdprpolicy": "https://creativesimulators.wixsite.com/mysite/blog/creative-simulators-studio-privacy-policy-2"
+      },
+      {
+        "name": "CrazyFun Games",
+        "store": "Google",
+        "policy": "https://crazyfungames2.wixsite.com/mysite/single-post/2018/02/14/CRAZY-FUN-GAMES-PRIVACY-POLICY",
+        "email": "crazyfungames2@gmail.com",
+        "url": "https://play.google.com/store/apps/developer?id=CrazyFun+Games",
+        "holapolicy": "https://crazyfungames2.wixsite.com/mysite/single-post/2018/02/14/CRAZY-FUN-GAMES-PRIVACY-POLICY-1",
+        "gdprpolicy": "https://crazyfungames2.wixsite.com/mysite/single-post/2018/05/16/CRAZYFUN-GAMES-PRIVACY-POLICY"
+      },
+      {
+        "name": "Easy Life Solutions",
+        "store": "Google",
+        "policy": "https://easeylifesolutions.wixsite.com/easylifesolutions/blog/easy-life-solutions-privacy-policy",
+        "email": "easeylifesolutions@gmail.com",
+        "url": "https://play.google.com/store/apps/developer?id=Easy+Life+Solutions",
+        "holapolicy": "https://easeylifesolutions.wixsite.com/easylifesolutions/blog/easy-life-solutions-privacy-policy-1",
+        "gdprpolicy": "https://easeylifesolutions.wixsite.com/easylifesolutions/blog/easy-life-solutions-privacy-policy-2"
+      },
+      {
+        "name": "GBN",
+        "store": "Apple",
+        "policy": "http://gbncontent.wixsite.com/gamesbannernetwork/single-post/2017/02/16/GAMES-BANNER-NETWORK-PRIVACY-POLICY",
+        "email": "gbn.content@gmail.com",
+        "url": "https://itunes.apple.com/us/developer/games-banner-network/id980856168",
+        "moregames": "https://search.itunes.apple.com/WebObjects/MZContentLink.woa/wa/link?mt=8&path=apps%2Fgamesbannernetwork"
+      },
+      {
+        "name": "Taiga Games",
+        "store": "Apple",
+        "policy": "http://kovalev19831984.wixsite.com/taygagames/single-post/2017/07/05/TAYGA-GAMES-PRIVACY-POLICY",
+        "email": "blokhina@taigagames.com",
+        "url": "https://itunes.apple.com/us/developer/tayga-games-ooo/id1058793784",
+        "moregames": "https://search.itunes.apple.com/WebObjects/MZContentLink.woa/wa/link?mt=8&path=apps%2Ftaygagamesooo"
+      },
+      {
+        "name": "Action Team",
+        "store": "Apple",
+        "policy": "http://blokhinajuliia.wixsite.com/actionteam/single-post/2017/07/05/ACTION-TEAM-PRIVACY-POLICY",
+        "email": "blokhinajuliia@gmail.com",
+        "url": "https://itunes.apple.com/us/developer/juliia-blokhina/id1223358670",
+        "moregames": "https://search.itunes.apple.com/WebObjects/MZContentLink.woa/wa/link?mt=8&path=apps%2Fjuliiablokhina"
+      },
+      {
+        "name": "Interactive Studio",
+        "store": "Apple",
+        "policy": "http://immortalg67.wixsite.com/interactivestudio/single-post/2017/07/05/INTERACTIVE-STUDIO-PRIVACY-POLICY",
+        "email": "immortalG67@gmail.com",
+        "url": "https://itunes.apple.com/us/developer/victoria-bessarab/id1223370443",
+        "moregames": "https://search.itunes.apple.com/WebObjects/MZContentLink.woa/wa/link?mt=8&path=apps%2Fvictoriabessarab"
+      },
+      {
+        "name": "Entertainment Arena",
+        "store": "Apple",
+        "policy": "http://kseniya6643.wixsite.com/mysite/single-post/2017/08/09/ENTERTAINMENT-ARENA",
+        "email": "kseniya6643@gmail.com",
+        "url": "https://itunes.apple.com/us/developer/kseniya-vazilyuk/id1268529475",
+        "moregames": "https://search.itunes.apple.com/WebObjects/MZContentLink.woa/wa/link?mt=8&path=apps%2fkseniyavazilyuk"
+      },
+      {
+        "name": "Electronic Fun Zone",
+        "store": "Apple",
+        "policy": "http://notupeekamgot.wixsite.com/mysite/single-post/2017/08/09/ELECTRONIC-FUN-ZONE",
+        "email": "natalya@gamesbannernet.com",
+        "url": "https://itunes.apple.com/us/developer/natalya-staritsyna/id1268532610",
+        "moregames": "https://search.itunes.apple.com/WebObjects/MZContentLink.woa/wa/link?mt=8&path=apps%2fnatalyastaritsyna"
+      },
+      {
+        "name": "Sergey Zanin",
+        "store": "Apple",
+        "policy": "http://ptizapevchaya1.wixsite.com/sergeyzanin/single-post/2017/07/05/SERGEY-ZANIN-PRIVACY-POLICY",
+        "email": "tutodamedia@gmail.com",
+        "url": "https://itunes.apple.com/us/developer/sergey-zanin/id670178562",
+        "moregames": "https://search.itunes.apple.com/WebObjects/MZContentLink.woa/wa/link?mt=8&path=apps%2Fsergeyzanin"
+      },
+      {
+        "name": "Mobile Simulators Tycoon",
+        "store": "Apple",
+        "policy": "http://mobilesimulatorsty.wixsite.com/mobilesimtycoon/single-post/2017/08/14/MOBILE-SIMULATORS-TYCOON-PRIVACY-POLICY",
+        "email": "mobilesimulatorstycoon@gmail.com",
+        "url": "https://itunes.apple.com/us/developer/mikhail-grechishnikov/id1277007573",
+        "moregames": "https://search.itunes.apple.com/WebObjects/MZContentLink.woa/wa/link?mt=8&path=apps%2Fmikhailgrechishnikov"
+      },
+      {
+        "name": "Innovate Games Lab",
+        "store": "Apple",
+        "policy": "http://innovategameslab.wixsite.com/innovategameslab/single-post/2017/08/15/INNOVATE-GAMES-LAB-PRIVACY-POLICY",
+        "email": "innovategameslab@gmail.com",
+        "url": "https://itunes.apple.com/us/developer/alena-zaytseva/id1278849896",
+        "moregames": "https://search.itunes.apple.com/WebObjects/MZContentLink.woa/wa/link?mt=8&path=apps%2falenazaytseva"
+      },
+      {
+        "name": "Daria Zhdanova",
+        "store": "Apple",
+        "policy": "https://dariazhdanova43.wixsite.com/dariazhdanova/single-post/2017/11/30/DARIA-ZHDANOVA-PRIVACY-POLICY",
+        "email": "dariazhdanova43@gmail.com",
+        "url": "",
+        "moregames": "https://search.itunes.apple.com/WebObjects/MZContentLink.woa/wa/link?mt=8&path=apps%2Fdariazhdanova"
+      },
+      {
+        "name": "Evgeny Chaikin",
+        "store": "Apple",
+        "policy": "https://atalanmerinoza.wixsite.com/evgenychaikin/single-post/2017/11/28/EVGENY-CHAIKIN-PRIVACY-POLICY",
+        "email": "atalanmerinoza@gmail.com",
+        "url": "",
+        "moregames": "https://search.itunes.apple.com/WebObjects/MZContentLink.woa/wa/link?mt=8&path=apps%2Fevgenychaikin"
+      },
+      {
+        "name": "Bogdan Markovsky",
+        "store": "Apple",
+        "policy": "https://markovskybogdan.wixsite.com/mysite/single-post/2017/12/12/BOGDAN-MARKOVSKY-PRIVACY-POLICY",
+        "email": "markovskybogdan@gmail.com",
+        "url": "",
+        "moregames": "https://search.itunes.apple.com/WebObjects/MZContentLink.woa/wa/link?mt=8&path=apps%2Fbogdanmarkovsky"
+      },
+      {
+        "name": "Daria Pavlyuk",
+        "store": "Apple",
+        "policy": "https://dariapavlyuk30.wixsite.com/mysite/blog/daria-pavlyuk-privacy-policy",
+        "email": "dariapavlyuk30@gmail.com",
+        "url": "",
+        "moregames": "https://search.itunes.apple.com/WebObjects/MZContentLink.woa/wa/link?mt=8&path=apps%2Fdariapavlyuk"
+      },
+      {
+        "name": "Svetlana Korekhova",
+        "store": "Apple",
+        "policy": "https://korekhovasvetlana.wixsite.com/mysite/blog/svetlana-korekhova-privacy-policy",
+        "email": "korekhovasvetlana@gmail.com",
+        "url": "",
+        "moregames": "https://search.itunes.apple.com/WebObjects/MZContentLink.woa/wa/link?mt=8&path=apps%2Fsvetlanakorekhova"
+      },
+      {
+        "name": "Marina Knyazeva",
+        "store": "Apple",
+        "policy": "https://marinaknyazeva29.wixsite.com/mysite/single-post/2017/12/12/MARINA-KNYAZEVA-PRIVACY-POLICY",
+        "email": "marinaknyazeva29@gmail.com",
+        "url": "",
+        "moregames": "https://search.itunes.apple.com/WebObjects/MZContentLink.woa/wa/link?mt=8&path=apps%2Fmarinaknyazeva"
+      },
+      {
+        "name": "Alexandra Nartova",
+        "store": "Apple",
+        "policy": "https://nartovaalexandra.wixsite.com/mysite/single-post/2018/02/14/ALEXANDRA-NARTOVA-PRIVACY-POLICY",
+        "email": "nartovaalexandra@gmail.com",
+        "url": "",
+        "moregames": "https://search.itunes.apple.com/WebObjects/MZContentLink.woa/wa/link?mt=8&path=apps%2Falexandranartova"
+      },
+      {
+        "name": "Yuriy Matlakhov",
+        "store": "Apple",
+        "policy": "https://matlakhovyuriy.wixsite.com/mysite/single-post/2018/02/14/YURIY-MATLAKHOV-PRIVACY-POLICY",
+        "email": "matlakhovyuriy@gmail.com",
+        "url": "",
+        "moregames": "https://search.itunes.apple.com/WebObjects/MZContentLink.woa/wa/link?mt=8&path=apps%2Fyuriymatlakhov"
+      },
+      {
+        "name": "Alexander Shulgin",
+        "store": "Apple",
+        "policy": "https://alexandershulgin83.wixsite.com/mysite/blog/alexander-shulgin-privacy-policy",
+        "email": "alexandershulgin83@gmail.com",
+        "url": "",
+        "moregames": "https://search.itunes.apple.com/WebObjects/MZContentLink.woa/wa/link?mt=8&path=apps%2Falexandershulgin"
+      },
+      {
+        "name": "Vsevolod Azarov",
+        "store": "Apple",
+        "policy": "https://vsevolodazarov.wixsite.com/mysite/blog/vsevolod-azarov-privacy-policy",
+        "email": "vsevolodazarov@gmail.com",
+        "url": "",
+        "moregames": "https://search.itunes.apple.com/WebObjects/MZContentLink.woa/wa/link?mt=8&path=apps%2Fvsevolodazarov"
+      }
+    ]
+  },
+  "sdk": {
+    "cooltool": [
+      {
+        "name": "Default",
+        "key": "uEnwbQlHKpntYMQUHkmT8WNczc9UJ7"
+      }
+    ],
+    "applovin": [
+      {
+        "name": "Default",
+        "key": "NszEv7pqS6nG54TgVvfAbJSE73R57fXUWUkPcXE3d0Kk4tOan2lNMBbUF2ZMi6sDbZcC5sGksbRxSqVEtFbERC"
+      },
+      {
+        "name": "Mobile Simulators World",
+        "key": "LKVQsmdzZMn4f6peapqMVgf2m8WUTlEq4lEwVtu4Ef8umyXLlLhF1MHoVpHzTWncF0XmuQq64z_rvWAettvuDA"
+      },
+      {
+        "name": "Virtual Animals World",
+        "key": "p0m9yqSlORkkTUVDwTgmV0Eyy_cE_9zoAix7WOtvracO46b-aHl5Hz2EzeTypQlz8g4e3xTvWAHaHtZs8JxQG-"
+      },
+      {
+        "name": "Colorful Lab",
+        "key": "BToHV3B8QxZvTFvAZP9aiTOuPNowF1rRaci4gvD6qo_M1uXaHgA_ETtdweTAgNbF_JKgCXn1KnOLfwxyb6xqeo"
+      },
+      {
+        "name": "Smart Games Lab",
+        "key": "f2GszHbCh0ug8RF0AgO09vRi7qA7OEK2GbvEuUQZVIEdlUev92vJxK029BATPVbg6Uv--JXTcn6MFmFPo9iiUk"
+      },
+      {
+        "name": "Mobile Sim Universe",
+        "key": "qDvmKt1o9mWcpccVevbLTz7TS_1XXhdLwX6EO81XuT8gAmBpfo8ClGgBFiioOL7JtDTGLZoE7xwHh55LtDTbTE"
+      },
+      {
+        "name": "Epic Battle Studio",
+        "key": "ENIST0kkt-pp5uJUhHbpE-T9kHTBTkZn5sETtyHkw4X0zsUe74RM3wVnB-zkhWUoNkLEfczahVaeL4IT9lqCeK"
+      },
+      {
+        "name": "Pocket Sports Life",
+        "key": "PAkEHyO6f0LL7xIF4rC9ThBeEZWBiOV6TELqAkxrkHAsCT6GJIQs-bVDA0OuOv_y7KnI3h7o-IdAmkR41tw0TQ"
+      },
+      {
+        "name": "Craft World Team",
+        "key": "CLRLRlmNuofv7pUQZN9BXlNEZz71INTUkvr9ebWWNAQU-vwXH3iqp52N29OKXsqFmfPOFwwc5K63E0bW4JKtON"
+      },
+      {
+        "name": "No Limit Action",
+        "key": "iCyrpR1qNaCn0TAEJkFi3-HlQmB87i5rv2fiThWsGicHFoVZVlHZkTI8JTHQBMF4OwntbIkt_L8F7epdO5B6dU"
+      },
+      {
+        "name": "Animals Wildlife Studio",
+        "key": "ww7Ju9w9hoKCQDPNR1lrK7od-aPNFiOAdWTVgOfMB-ZcCz-d-iSJqExpqLB42aEf5iAm5r7Hpgu_dsdbZ5vOKr"
+      },
+      {
+        "name": "Pocket Games Tycoon",
+        "key": "ZR9TpGnVDPTnToI7sdJymKAiA_I99tPkJTC7qzc2N5qst6zikGeTbqBmpTwzLJhftunhsNlDST4Ke11MIgruU0"
+      },
+      {
+        "name": "Battle Gaming Studio",
+        "key": "aGzZoswIdI93-SrflmRrcqovX6SOPqg-5eTtUSA6lJAkm_NVlqLMd7GAEiTdWDccsATKcdRMyb5ibSCLHXhwfy"
+      },
+      {
+        "name": "My Pocket Animals Studio",
+        "key": "PAZCDnWvftrt_y1Hi4lpX0UWsgHAPvAq4k1HUXA9P01Oz2gf6PSeQxAHbRR0LbrPKshqNt-ou_Ar1rU8Fynfuy"
+      },
+      {
+        "name": "Real Life Games",
+        "key": "UHu94UwLFua1r3_qC8ZzblMLtTTNxV5QozasSVChNnkCqi11sa-SKLoBpFZlmeAXclO3EalbMTpBBrC2QBUlXG"
+      },
+      {
+        "name": "Creative Simulators Studio",
+        "key": "-bxDlSphw4iuM9GcSk9TDoNM_mEEETUC4PPqtDVnHCfeLwFpdOMrBlCAVQPkuuwyHKm9XGxpSaRpUhb74zzGhA"
+      },
+      {
+        "name": "Crazy Fun Games",
+        "key": "8VqRItUWvDyhDH6RqBLF79B-3evES-BaU_0nsVImkFSxWTNLliassmrwPl9siKRBKSzByFxfUOb0yzLgfwWWgM"
+      }
+    ],
+    "huq": [
+      {
+        "name": "Default",
+        "key": "b97ce27b-f3b2-4d03-8fbd-acbc62484cce"
+      }
+    ],
+    "tutela": [
+      {
+        "name": "Default",
+        "key": "th5131kuqrm2i1913uqro70u52"
+      }
+    ],
+    "cuebiq": [
+      {
+        "name": "Default",
+        "key": "aGBNgbn"
+      }
+    ],
+    "gdpr": [
+      {
+        "name": "Default",
+        "key": { 
+			"titleMain": "Grant permission to information about your device",
+			"titleInfo": "More Info",
+			"textMain": "Your location information (aggregated by country) and language, as well as some info about your device allow us to provide you with an external user experience.\n\nBy clicking «Allow» on the next screen you consent to share it for internal research causes and better ads performance.\n\nYou are not required to consent and you can withdraw it at any time.",
+			"textInfo": "This app collects and uses information about your device (type of device and OS version), your location (aggregated by country) and your in-game activity in order to show you more relevant and customized ads, measure ads performance and provide analytics. This information might help to identify whether you are the kind of person the advertising clients want to show ads to and to verify that you are human rather than a “bot” attempting to defraud advertisers. Please read our Privacy Policy and choose whether you want or not to share your data. You can always opt-out later using your device settings. You will find the information on how to do that in our Privacy Policy.",
+			"btnProceed": "PROCEED",
+			"btnInfo": "MORE INFO",
+			"btnPolicy": "Privacy Policy"
+		}
+      }
+    ]
+  },
+  "stores": {
+    "apple": {
+      "teams": [
+        {
+          "account": "Taiga Games",
+          "distribution": "KCLKXZ3X25",
+          "development": "LL3FE6PJF5"
+        },
+        {
+          "account": "GBN",
+          "distribution": "745228BXCJ",
+          "development": "GDNHK694YP"
+        },
+        {
+          "account": "Action Team",
+          "distribution": "88J8V8TD6M",
+          "development": "VV69WEG593"
+        },
+        {
+          "account": "Interactive Studio",
+          "distribution": "V3R363H7NM",
+          "development": "E6H5PUKWY4"
+        },
+        {
+          "account": "Sergey Zanin",
+          "distribution": "ZTWKELEF7G",
+          "development": "E54U53949R"
+        },
+        {
+          "account": "Entertainment Arena",
+          "distribution": "5XS7794LSC",
+          "development": "L7HX8XB394"
+        },
+        {
+          "account": "Electronic Fun Zone",
+          "distribution": "4FTF5C77FG",
+          "development": "DR53AHUGPK"
+        },
+        {
+          "account": "Mobile Simulators Tycoon",
+          "distribution": "6244272N76",
+          "development": "87RBE5LMC2"
+        },
+        {
+          "account": "Innovate Games Lab",
+          "distribution": "R3328MH6GA",
+          "development": "R6N5Y3J23N"
+        },
+        {
+          "account": "Daria Zhdanova",
+          "distribution": "N7S7X2A9VX",
+          "development": "HQV5MESG9E"
+        },
+        {
+          "account": "Evgeny Chaikin",
+          "distribution": "PEPWK2MGUL",
+          "development": "545364M7T9"
+        },
+        {
+          "account": "Bogdan Markovsky",
+          "distribution": "GQRKZT72C8",
+          "development": "4X76T82S57"
+        },
+        {
+          "account": "Daria Pavlyuk",
+          "distribution": "QL2W397PDN",
+          "development": "ET772TWRUP"
+        },
+        {
+          "account": "Svetlana Korekhova",
+          "distribution": "6U63T23WRC",
+          "development": "TR2A5NMH5S"
+        },
+        {
+          "account": "Marina Knyazeva",
+          "distribution": "4FV2M92727",
+          "development": "EEJHB4RH9G"
+        },
+        {
+          "account": "Alexandra Nartova",
+          "distribution": "S573MAD7GN",
+          "development": "L93R8M8F3V"
+        },
+        {
+          "account": "Yuriy Matlakhov",
+          "distribution": "6JG73ADF65",
+          "development": "35FELL2CP8"
+        },
+        {
+          "account": "Alexander Shulgin",
+          "distribution": "NSWRQA86YG",
+          "development": "TSSQXYK5BT"
+        },
+        {
+          "account": "Vsevolod Azarov",
+          "distribution": "XN43R8G2RA",
+          "development": "H23DJRWG3P"
+        }
+      ]
+    },
+    "google": {},
+    "amazon": {}
+  }
+}
